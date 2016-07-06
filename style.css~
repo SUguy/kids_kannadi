@@ -1,5 +1,9 @@
 body {
- background: #c1bcf3 none repeat scroll 0%;
+<<<<<<< HEAD
+ background: #5ea8e0 none repeat scroll 0%;
+=======
+  background: #c1bcf3 none repeat scroll 0%;
+>>>>>>> 9d0942d2891ae68d887760f45495a1afed14857a
 }
 .container {
   margin: 0 auto;
