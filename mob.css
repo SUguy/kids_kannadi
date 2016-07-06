@@ -1,0 +1,16 @@
+.text{
+  padding:0;
+}
+
+.container{
+  border:5px solid #94678f;
+  width:95%;
+}
+
+#nav li a{
+padding:8px 5px 14px 8px;
+}
+
+.header {
+ border: 2px solid #8B4513; 
+}
